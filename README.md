@@ -18,7 +18,7 @@ Lemon Video H5 SDK
 | AppKey   | 应用key   |  是 |1259402909 
 | Mobile   | 用户手机号   | 否（默认游客）|
 | NickName  | 用户昵称   | 否 （默认游客）|
-| title  | 影视标题  | 否 （默认‘影檬’）| 测试影院
+| title  | 影视标题  | 否 （默认‘影檬’）| 测试影院 建议URLEncoder.encode("", "UTF-8"); 编码
 | color  | 界面主题颜色   | 否  （默认‘蓝色’）| 33cd5f
  [测试链接（http://ym.lemon95.com/lacel/index/auto?SecretKey=ec8b570ad4bd403783c52ecb5cdfa849&AppKey=1259402909&Mobile=&NickName=&title=测试影院&color=33cd5f）](http://ym.lemon95.com/lacel/index/auto?SecretKey=ec8b570ad4bd403783c52ecb5cdfa849&AppKey=1259402909&Mobile=&NickName=&title=测试影院&color=33cd5f)
 
